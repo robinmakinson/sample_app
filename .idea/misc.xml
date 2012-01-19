@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DependencyValidationManager">
+    <option name="SKIP_IMPORT_STATEMENTS" value="false" />
+  </component>
+  <component name="PerforceDirect.Settings">
+    <option name="useP4CONFIG" value="false" />
+    <option name="port" value="perforce.ges.symantec.com:1666" />
+    <option name="client" value="robin_makinson_dev" />
+    <option name="user" value="Robin_Makinson" />
+    <option name="passwd" value="dffddfcfdfc6dfc9dfc5dfc7dfcfdf99" />
+    <option name="pathToExec" value="/usr/local/bin/p4" />
+    <option name="PATH_TO_P4V" value="/Applications/p4v" />
+    <option name="USE_LOGIN" value="true" />
+  </component>
+  <component name="ProjectResources">
+    <default-html-doctype>http://www.w3.org/1999/xhtml</default-html-doctype>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="RVM: jruby-1.6.4 [snsweb]" project-jdk-type="JRUBY_SDK" />
+</project>
+
